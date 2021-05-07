@@ -1,4 +1,4 @@
-FROM unlock-core
+FROM unlockprotocol/unlock-core
 
 # Dependencies for unlock-js
 RUN mkdir /home/unlock/unlock-js
