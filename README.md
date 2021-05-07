@@ -50,7 +50,7 @@ yarn
 At the root of the repo, add a file called `.env.dev.local` which includes the following variables and add your wallet address to the first line:
 
 ```
-ETHEREUM_ADDRESS=<your ethereum address>
+ETHEREUM_ADDRESS=0xCea5E66bec5193e5eC0b049a3Fe5d7Dd896fD480
 READ_ONLY_PROVIDER=http://localhost:8545
 LOCKSMITH_URI=http://localhost:8080
 WEDLOCKS_URI=http://localhost:1337
